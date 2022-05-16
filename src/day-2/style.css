@@ -56,7 +56,7 @@ header {
 header::before {
   content: '';
   width: 100%;
-  height: calc(111rem + var(--nav-height));
+  height: calc(108rem + var(--nav-height));
   background-color: var(--primary-brand-green-light);
   display: block;
 
