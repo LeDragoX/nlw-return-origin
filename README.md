@@ -13,6 +13,10 @@ Projeto da _Trilha Origin_ da 8ª Edição do NLW da _RocketSeat_.
 |      Projeto       |               Link               |
 | :----------------: | :------------------------------: |
 | DoctorCare (Dia 1) | [» LINK «](src/day-1/index.html) |
+| DoctorCare (Dia 2) | [» LINK «](src/day-2/index.html) |
+| DoctorCare (Dia 3) | [» LINK «](src/day-3/index.html) |
+| DoctorCare (Dia 4) | [» LINK «](src/day-4/index.html) |
+| DoctorCare (Dia 5) | [» LINK «](src/day-5/index.html) |
 
 ## 📝 Licença
 
