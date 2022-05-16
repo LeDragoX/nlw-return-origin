@@ -10,9 +10,9 @@ Projeto da _Trilha Origin_ da 8ª Edição do NLW da _RocketSeat_.
 
 ## 🚀 Deploy
 
-|      Projeto       |                                Link                                 |
-| :----------------: | :-----------------------------------------------------------------: |
-| DoctorCare (Dia 1) | [» LINK «](https://ledragox.github.io/nlw-return-origin/src/day-1/) |
+|      Projeto       |               Link               |
+| :----------------: | :------------------------------: |
+| DoctorCare (Dia 1) | [» LINK «](src/day-1/index.html) |
 
 ## 📝 Licença
 
